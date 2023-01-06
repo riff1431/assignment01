@@ -67,7 +67,6 @@
     padding: 100px;
 } */
 
-
 /* section one */
 
 .section-one {
@@ -103,40 +102,39 @@
   line-height: 26px;
 }
 
-
 /* bonus section */
 
-.section-coding{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    /* margin: 30px 200px; */
+.section-coding {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* margin: 30px 200px; */
 }
 
-.coding-right{
-text-align: center;
-} 
-.coding-right img{
-    width: 100px;
+.coding-right {
+  text-align: center;
+}
+.coding-right img {
+  width: 100px;
 }
 
-.coding-heading{
-text-align: center;
+.coding-heading {
+  text-align: center;
   color: #151414;
   font-weight: 700;
   font-size: 40px;
   line-height: 47px;
 }
 
-.coding-des{
-    color: #737272;
-    font-weight: 500;
-    font-size: 25px;
-    line-height: 29px; 
+.coding-des {
+  color: #737272;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
 }
 
-.text-style{
-    color: #f15b22;
+.text-style {
+  color: #f15b22;
 }
 
 /* my plan section */
