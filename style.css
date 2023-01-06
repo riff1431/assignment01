@@ -7,7 +7,7 @@
 .banner-container {
   width: 100%;
   height: 100vh;
-  background-image: url(/images/banner/banner1.png);
+  background-image: url(images/banner/banner1.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -57,7 +57,7 @@
     height: 100vh;
     background: #f15b22;
     text-align: center;
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(images/banner/banner2.png);
     background-repeat: no-repeat;
     background-size: cover;
     justify-content: space-between;
@@ -183,7 +183,7 @@
 
 .grediant-box {
   margin: 65px 230px;
-  background-image: url(/images/watch.png);
+  background-image: url(images/watch.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
